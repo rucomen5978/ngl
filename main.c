@@ -29,7 +29,7 @@ int main() {
       system("clear");
 
     // Base actions
-    if (!strcmp(action, "add")) {
+    if (!strcmp(action, "add")) {:
       scanf("%Lf%Lf", &a, &b);
       printf("%Lf\n", a + b);
     }
@@ -138,12 +138,6 @@ int main() {
       fn /= gcdval;
       fd /= gcdval;
       printf("%d/%d\n", fn, fd);
-    }
-
-    if (!strcmp(action, "tad")) {
-      scanf("%Lf%Lf%Lf", &a, &b, &size);
-      a = a / (b / size);
-      printf("%Lf\n", a);
     }
   }
   return 0;
