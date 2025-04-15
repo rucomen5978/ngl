@@ -1,4 +1,4 @@
 # new gcd lcm
 
 ## install
-* [gcc]
+* gcc
