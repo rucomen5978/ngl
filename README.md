@@ -12,4 +12,5 @@
 ## use
 the program consists of small functions that take from 1 to 4 arguments.
 here is the list:
-add sub mul div rod gcd lcm pow cos sin tan rd itm tif af sf mf df dtf
+
+* add sub mul div rod gcd lcm pow cos sin tan rd itm tif af sf mf df dtf
