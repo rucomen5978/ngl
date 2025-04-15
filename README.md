@@ -17,22 +17,22 @@ here is the list:
 * ex exit cl clear add sub mul div rod gcd lcm pow cos sin tan rd itm tif af sf mf df dtf
 
 ### program part
-ex exit - exit the program
-cl clear - claar the console
+* ex exit - exit the program
+* cl clear - claar the console
 
 ### numbers part
-add - accepts 2 digits and outputs the sum                    (+)
-sub - accepts 2 digits and outputs the difference             (-)
-mul - accepts 2 digits and outputs the product                (*)
-div - accepts 2 digits and outputs the quotient               (/)
-rod - accepts 2 digits and outputs the remainder of division  (%)
-pow - accepts 2 digits and outputs the power                  (^)
-gcd - accepts 2 digits and outputs greatest common divisor
-lcm - accepts 2 digits and outputs lowest common multiple
+* add - accepts 2 digits and outputs the sum                    (+)
+* sub - accepts 2 digits and outputs the difference             (-)
+* mul - accepts 2 digits and outputs the product                (*)
+* div - accepts 2 digits and outputs the quotient               (/)
+* rod - accepts 2 digits and outputs the remainder of division  (%)
+* pow - accepts 2 digits and outputs the power                  (^)
+* gcd - accepts 2 digits and outputs greatest common divisor
+* lcm - accepts 2 digits and outputs lowest common multiple
 
 ### trigonometry part
-cos - takes 1 number and outputs the cosine of the number
-sin - takes 1 number and outputs the sine of the number
-tan - takes 1 number and outputs the tangent of the number
+* cos - takes 1 number and outputs the cosine of the number
+* sin - takes 1 number and outputs the sine of the number
+* tan - takes 1 number and outputs the tangent of the number
 
 ### fraction part
