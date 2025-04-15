@@ -10,7 +10,9 @@
   ./ngl
 
 ## use
-the program consists of small functions that take from 1 to 4 arguments.
+in the program, all interaction occurs through entering the function name and arguments to them into the console.
+the program consists of small functions that take from 1 to 4 arguments (except the first four).
 here is the list:
 
-* add sub mul div rod gcd lcm pow cos sin tan rd itm tif af sf mf df dtf
+* ex exit cl clear add sub mul div rod gcd lcm pow cos sin tan rd itm tif af sf mf df dtf
+
