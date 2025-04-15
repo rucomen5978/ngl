@@ -9,3 +9,7 @@
   gcc main.c -o ngl -lm
   ./ngl
 
+## use
+* ```ngl
+  pow 1 2
+  1.0000000
