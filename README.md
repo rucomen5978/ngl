@@ -66,7 +66,6 @@ here is the list:
 * itm - takes an improper fraction and outputs a proper fraction
 * tif - takes a proper fraction (integer part, numerator, denominator) and outputs an improper fraction
 * af - takes two improper fractions (i.e. 4 numbers) and outputs the sum of the two fractions as an unabridged and improper fraction, then outputs the number by which the fraction can be reduced
-* dtf - 
 * sf mf df - do the same thing as af, only different actions (i.e. sf - subtracts, mf - multiplies, df - divides)
 * dtf - takes a decimal fraction and converts it to an improper fraction
 
