@@ -87,7 +87,7 @@ int main() {
       printf("%Lf\n", sinl(num));
     }
 
-    if (!strcmp(action, "tan"))/home/bratik/dwm/ {
+    if (!strcmp(action, "tan")) {
       long double num;
       scanf("%Lf", &num);
       printf("%Lf\n", tanl(num));
